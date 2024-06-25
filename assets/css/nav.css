@@ -45,11 +45,8 @@
 
   @media print, screen and (max-width: 1000px) { 
 
-    .topnav {
-      height:47px;
-    }
 
-    .topnav img {
+      .topnav img {
         margin-left:3%;
       }
 
@@ -127,6 +124,13 @@
    }
 
    @media print, screen and (max-width: 960px) { 
+
+    .topnav img {
+      margin-bottom:0.5pt;
+      margin-top:5.5pt;
+      margin-left:3%;
+    }
+    
     .topnav #myLinks {
         display: none;
       }
