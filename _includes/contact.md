@@ -2,10 +2,9 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&amp;entry=tt">3400 N. Charles St., Baltimore, MD 21218-2625</a>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/%E6%B2%99%E5%B0%94%E5%A4%A7%E5%AD%A6/@49.255122,7.0383765,17z/data=!4m6!3m5!1s0x4795b65faad2ce4f:0xdf77444e039a71b1!8m2!3d49.255122!4d7.0409514!16zL20vMDlkbWRk?entry=ttu">Saarland University Campus, 66123 Saarbrücken, Germany</a>
 <br />
-<strong>Office Location:</strong> Malone Hall 248
+<strong>Office Location:</strong> C7.1
 <br />
-<strong>Email:</strong> <email>yliu538 (at) jhu.edu</email>
+<strong>Email:</strong> <email>mzhang(at)lsv.uni-saarland.de</email> 
 <br />
-<strong>Phone:</strong> (857) 209-8688</p>
