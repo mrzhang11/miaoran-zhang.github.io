@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+
 <li><strong>[Jun. 2024]</strong> I will give an invited talk at the <a href="https://lu.ma/fl2t9xms">London Data Week Workshop</a> on July 2nd.</li>
 <li><strong>[Jun. 2024]</strong> Our paper <a href="https://arxiv.org/abs/2404.01490">AAdaM at SemEval-2024 Task 1</a> received the <strong>best paper award</strong> (1/269) at SemEval-2024 workshop @ NAACL!</li>
 <li><strong>[May. 2024]</strong> I will give an invited talk at the <a href="https://hpc.uni-saarland.de/workshops/icl ">NHR SOUTH-WEST Workshop</a> on June 12th. </li>

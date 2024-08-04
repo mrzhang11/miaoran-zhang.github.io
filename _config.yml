@@ -15,7 +15,7 @@ keywords: miaoran zhang, zhang miaoran, miaoranzhang, zhangmiaoran
 #enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: true
+enable_last_update: false
 
 # Links
 link_type: icon #text/icon
