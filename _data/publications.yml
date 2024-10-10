@@ -7,6 +7,14 @@ main:
     code: https://github.com/uds-lsv/mt-sft
     image: assets/teaser/sft_mt.png
 
+  - title: "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis"
+    authors: <strong>Miaoran Zhang</strong>, Vagrant Gautam, Mingyang Wang, Jesujoba O Alabi, Xiaoyu Shen, Dietrich Klakow, and Marius Mosbach
+    conference_short: ACL
+    conference: "Findings of the Association for Computational Linguistics: <strong>ACL 2024</strong>"
+    pdf: https://aclanthology.org/2024.findings-acl.438/
+    code: https://github.com/uds-lsv/multilingual-icl-analysis
+    image: assets/teaser/micl.png
+
   - title: "Human Speech Perception in Noise: Can Large Language Models Paraphrase to Improve It?"
     authors: Anupama Chingacham, <strong>Miaoran Zhang</strong>, Vera Demberg, Dietrich Klakow
     conference_short: HuCLLM
@@ -22,14 +30,6 @@ main:
     pdf: https://aclanthology.org/2024.acl-srw.24/
     code: https://github.com/uds-lsv/intermediate-task-selection
     image: assets/teaser/task.png
-
-  - title: "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis"
-    authors: <strong>Miaoran Zhang</strong>, Vagrant Gautam, Mingyang Wang, Jesujoba O Alabi, Xiaoyu Shen, Dietrich Klakow, and Marius Mosbach
-    conference_short: ACL
-    conference: "Findings of the Association for Computational Linguistics: <strong>ACL 2024</strong>"
-    pdf: https://aclanthology.org/2024.findings-acl.438/
-    code: https://github.com/uds-lsv/multilingual-icl-analysis
-    image: assets/teaser/micl.png
 
   - title: "AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness"
     authors: <strong>Miaoran Zhang</strong>, Mingyang Wang, Jesujoba O Alabi, and Dietrich Klakow
