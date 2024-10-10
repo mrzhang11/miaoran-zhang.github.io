@@ -1,18 +1,41 @@
 main:
+  - title: "Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data in Misaligned Languages Suffice?"
+    authors: Dawei Zhu, Pinzhen Chen, <strong>Miaoran Zhang</strong>, Barry Haddow, Xiaoyu Shen, Dietrich Klakow
+    conference_short: EMNLP
+    conference: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, <strong>EMNLP 2024</strong>"
+    pdf: https://arxiv.org/abs/2404.14122
+    code: https://github.com/uds-lsv/mt-sft
+    image: assets/teaser/sft_mt.png
+
+  - title: "Human Speech Perception in Noise: Can Large Language Models Paraphrase to Improve It?"
+    authors: Anupama Chingacham, <strong>Miaoran Zhang</strong>, Vera Demberg, Dietrich Klakow
+    conference_short: HuCLLM
+    conference: "Proceedings of the 1st Human-Centered Large Language Modeling Workshop, <strong>HuCLLM 2024</strong>"
+    pdf: https://aclanthology.org/2024.hucllm-1.1/
+    code: https://github.com/uds-lsv/llm_eval_PI-SPiN
+    image: assets/teaser/speech.png
+
+  - title: "Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning"
+    authors: Pin-Jie Lin, <strong>Miaoran Zhang</strong>, Marius Mosbach, Dietrich Klakow
+    conference_short: ACL-SRW
+    conference: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, <strong>ACL 2024 Student Research Workshop</strong>"
+    pdf: https://aclanthology.org/2024.acl-srw.24/
+    code: https://github.com/uds-lsv/intermediate-task-selection
+    image: assets/teaser/task.png
 
   - title: "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis"
     authors: <strong>Miaoran Zhang</strong>, Vagrant Gautam, Mingyang Wang, Jesujoba O Alabi, Xiaoyu Shen, Dietrich Klakow, and Marius Mosbach
     conference_short: ACL
     conference: "Findings of the Association for Computational Linguistics: <strong>ACL 2024</strong>"
-    pdf: https://arxiv.org/abs/2402.12976
+    pdf: https://aclanthology.org/2024.findings-acl.438/
     code: https://github.com/uds-lsv/multilingual-icl-analysis
     image: assets/teaser/micl.png
 
   - title: "AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness"
     authors: <strong>Miaoran Zhang</strong>, Mingyang Wang, Jesujoba O Alabi, and Dietrich Klakow
     conference_short: SemEval
-    conference: "Proceedings of the 18th International Workshop on Semantic Evaluation, <strong>SemEval-2024</strong> (co-located with NAACL 2024)"
-    pdf: https://arxiv.org/abs/2404.01490
+    conference: "Proceedings of the 18th International Workshop on Semantic Evaluation, <strong>SemEval 2024</strong>"
+    pdf: https://aclanthology.org/2024.semeval-1.114/
     code: https://github.com/uds-lsv/AAdaM
     image: assets/teaser/aadam.png
     notes: Best Paper Award
