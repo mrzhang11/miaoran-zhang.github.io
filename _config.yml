@@ -21,7 +21,7 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=_FuKQZoAAAAJ
 github_link: https://github.com/mrzhang11
-cv_link: ./assets/doc/CV.pdf
+#cv_link: ./assets/doc/CV.pdf
 linkedin: https://www.linkedin.com/in/miaoran-zhang-07923394
 # twitter: https://x.com/miaoranz
 

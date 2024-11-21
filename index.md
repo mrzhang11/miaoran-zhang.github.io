@@ -12,7 +12,7 @@ under the supervision of [Prof. Dietrich Klakow](https://scholar.google.de/citat
 I am also a member of the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) 
 and the [SFB 1102-Information Density and Linguistic Encoding (IDeaL)](https://sfb1102.uni-saarland.de/) project.
 My research interests lie in the general area of natural language processing (NLP), with a particular focus on
-**representation analysis**, **multilingual modeling**, and **LLM alignment**.
+**representation analysis** and **multilingual modeling**, aiming to advance understanding and development of robust AI systems.
 
 Previously, I obtained my Bachelor’s degree from [Harbin Engineering University](https://english.hrbeu.edu.cn/index.htm) in 2014 and my Master’s degree from 
 [Chinese Academy of Sciences](https://english.cas.cn/) in 2017. 
