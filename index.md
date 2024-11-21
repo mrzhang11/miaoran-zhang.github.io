@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a fourth-year Ph.D. student in the [Spoken Language Systems (LSV)](https://www.lsv.uni-saarland.de/) group at
+I am currently a final-year Ph.D. student in the [Spoken Language Systems (LSV)](https://www.lsv.uni-saarland.de/) group at
 [Saarland University](https://www.uni-saarland.de/en/home.html),
 under the supervision of [Prof. Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ).
 I am also a member of the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) 
