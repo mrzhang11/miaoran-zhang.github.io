@@ -21,8 +21,6 @@ In 2019, I completed a research immersion lab at [MPI-INF](https://www.mpi-inf.m
 [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) 
 and [Dr. Yongqin Xian](https://xianyongqin.github.io/).
 
-<b style='color:red;'> I am currently on the job market for 2025, looking for industry positions (internship/full-time) related to NLP and LLMs. 
-Please feel free to contact me if you are interested. </b>
 
 <!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
